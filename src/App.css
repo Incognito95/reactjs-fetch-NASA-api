@@ -1,0 +1,16 @@
+.hero-section {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('https://www.nasa.gov/sites/default/files/thumbnails/image/nasa_meatball_large.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
+
+.nasa-hero-text {
+  font-size: 70px;
+  padding-top: 130px;
+}
+
+p {
+  width: 70%;
+}
